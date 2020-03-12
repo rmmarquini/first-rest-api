@@ -1,0 +1,29 @@
+{
+  "name": "first-rest-api",
+  "version": "1.0.0",
+  "description": "Experimentando NodeJs e Restful",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmmarquini/first-rest-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "api",
+    "rest",
+    "restful"
+  ],
+  "author": "Rafael Marquini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmmarquini/first-rest-api/issues"
+  },
+  "homepage": "https://github.com/rmmarquini/first-rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
